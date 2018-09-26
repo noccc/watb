@@ -17,7 +17,7 @@ body {
     margin-left: 680px;
     text-align: center;
     color: white;
-    background: black;
+    background: transparent;
     border: 1px solid grey;
     z-index: 10;
 }
@@ -76,7 +76,7 @@ body {
 }
 
 #myCanvas {
-    background: black;
+    background: transparent;
 }
 
 #scroll {
